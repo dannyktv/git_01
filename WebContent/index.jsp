@@ -8,5 +8,8 @@
 </head>
 <body>
 	첫페이지
+	<script>
+	alert("기모띠");
+	</script>
 </body>
 </html>
